@@ -1,0 +1,10 @@
+c:\Users\nsedler\Documents\rust\SmoothMovement\target\rls\debug\deps\gilrs_core-55a8935d00137d0e.rmeta: C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\lib.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\mod.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\windows\mod.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\windows\ff.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\windows\gamepad.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\utils.rs
+
+c:\Users\nsedler\Documents\rust\SmoothMovement\target\rls\debug\deps\gilrs_core-55a8935d00137d0e.d: C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\lib.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\mod.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\windows\mod.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\windows\ff.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\windows\gamepad.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\utils.rs
+
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\lib.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\mod.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\windows\mod.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\windows\ff.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\platform\windows\gamepad.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.2.4\src\utils.rs:
