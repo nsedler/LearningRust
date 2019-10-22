@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\nsedler\Documents\rust\NatureOfCodeBook\introduction\RandNumDistrobution\target\debug\build\typenum-48161923da7ca438\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\nsedler\Documents\rust\NatureOfCodeBook\introduction\RandNumDistrobution\target\debug\build\typenum-48161923da7ca438\out\op.rs
