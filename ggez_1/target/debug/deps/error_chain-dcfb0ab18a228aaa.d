@@ -1,0 +1,11 @@
+C:\Users\nsedler\Documents\rust\ggez_1\target\debug\deps\error_chain-dcfb0ab18a228aaa.rmeta: C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\lib.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\impl_error_chain_kind.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\error_chain.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\quick_main.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\backtrace.rs
+
+C:\Users\nsedler\Documents\rust\ggez_1\target\debug\deps\liberror_chain-dcfb0ab18a228aaa.rlib: C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\lib.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\impl_error_chain_kind.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\error_chain.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\quick_main.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\backtrace.rs
+
+C:\Users\nsedler\Documents\rust\ggez_1\target\debug\deps\error_chain-dcfb0ab18a228aaa.d: C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\lib.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\impl_error_chain_kind.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\error_chain.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\quick_main.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\backtrace.rs
+
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\lib.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\impl_error_chain_kind.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\error_chain.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\quick_main.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\backtrace.rs:

@@ -1,0 +1,12 @@
+C:\Users\nsedler\Documents\rust\ggez_1\target\debug\deps\arrayvec-44d1059e182e589b.rmeta: C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\lib.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\maybe_uninit.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\array.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\array_string.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\char.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\errors.rs
+
+C:\Users\nsedler\Documents\rust\ggez_1\target\debug\deps\libarrayvec-44d1059e182e589b.rlib: C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\lib.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\maybe_uninit.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\array.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\array_string.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\char.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\errors.rs
+
+C:\Users\nsedler\Documents\rust\ggez_1\target\debug\deps\arrayvec-44d1059e182e589b.d: C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\lib.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\maybe_uninit.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\array.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\array_string.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\char.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\errors.rs
+
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\lib.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\maybe_uninit.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\array.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\array_string.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\char.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.0\src\errors.rs:

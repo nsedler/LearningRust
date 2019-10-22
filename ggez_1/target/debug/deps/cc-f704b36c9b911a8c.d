@@ -1,0 +1,12 @@
+C:\Users\nsedler\Documents\rust\ggez_1\target\debug\deps\cc-f704b36c9b911a8c.rmeta: C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\lib.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\registry.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\winapi.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\com.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\setup_config.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\windows_registry.rs
+
+C:\Users\nsedler\Documents\rust\ggez_1\target\debug\deps\libcc-f704b36c9b911a8c.rlib: C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\lib.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\registry.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\winapi.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\com.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\setup_config.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\windows_registry.rs
+
+C:\Users\nsedler\Documents\rust\ggez_1\target\debug\deps\cc-f704b36c9b911a8c.d: C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\lib.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\registry.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\winapi.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\com.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\setup_config.rs C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\windows_registry.rs
+
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\lib.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\registry.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\winapi.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\com.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\setup_config.rs:
+C:\Users\nsedler\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.45\src\windows_registry.rs:
